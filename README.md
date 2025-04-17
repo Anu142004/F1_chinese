@@ -16,5 +16,5 @@
    - Compares starting position with race outcome.  
    - Analyzes if starting ahead improves final rank.
 5. **box plot**
--Can show if drivers get faster/slower as laps progress.
--Useful for spotting consistency or strategy changes across laps.
+   - Can show if drivers get faster/slower as laps progress.
+   - Useful for spotting consistency or strategy changes across laps.
